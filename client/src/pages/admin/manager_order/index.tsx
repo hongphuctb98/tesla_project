@@ -104,7 +104,7 @@ const Manager_Order: React.FC<{}> = () => {
       )}
       <div>
         <div className="flex justify-between items-center">
-          <h3 className="text-2xl font-semibold">User managerment</h3>
+          <h3 className="text-2xl font-semibold">Order managerment</h3>
         </div>
         <div className="flex justify-between items-center pt-4">
           <Input

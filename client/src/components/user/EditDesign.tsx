@@ -60,9 +60,7 @@ const EditDesign = () => {
         );
       });
 
-      if (img) {
-        cardetailId = img.CardetailId;
-      }
+      cardetailId = img.CardetailId;
     }
     dispatch(
       setOrder({
